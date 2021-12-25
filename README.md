@@ -2,7 +2,7 @@ EN-US
 
 👋 Hi, I’m @Joao-Gabriel-Feres
 
-👀 I’m interested in InfoSec and IAs
+👀 I’m interested in InfoSec and AIs
 
 🌱 I’m currently learning Python (my first programming language!)
 
@@ -14,7 +14,7 @@ EN-US
 
 PT-BR
 
-👋 Olá, I’m @Joao-Gabriel-Feres
+👋 Olá, sou o @Joao-Gabriel-Feres
 
 👀 Estou interessado em InfoSec e IAs
 
