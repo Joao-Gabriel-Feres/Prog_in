@@ -34,8 +34,8 @@
 
 <div>
   <a href="https://github.com/Joao-Gabriel-Feres">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-Feres&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-Feres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-Feres&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-Feres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 ## 💬 Contato
