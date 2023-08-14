@@ -1,4 +1,4 @@
-# 💜 Olá, sou o <strong>Prog_in!</strong>
+# 💜 Olá, sou o <strong>Prog-in!</strong>
 
 > Sou um estudante de Ciências da Computação na UFSC. 
 
